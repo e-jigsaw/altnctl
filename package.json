@@ -1,6 +1,6 @@
 {
   "name": "nodectl",
-  "version": "0.3.12",
+  "version": "0.3.13",
   "description": "supervisor script for node.js",
   "main": "lib/nodectl.js",
   "bin": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/geta6/nodectl"
+    "url": "https://github.com/e-jigsaw/nodectl"
   },
   "keywords": [
     "supervisor",
@@ -25,7 +25,7 @@
     "html-minifier": "*",
     "mkdirp": "*"
   },
-  "author": "geta6",
+  "author": ["geta6", "jigsaw"],
   "license": "BSD",
   "readme": "http://geta6.github.io/nodectl/",
   "bugs": {
