@@ -21,7 +21,7 @@ A simple CLI tool for ensuring that a given node.js application runs convenientl
 ## Installation
 
 ```
-npm i nodectl -g
+npm i altnctl -g
 ```
 
 ## Usage
@@ -69,7 +69,7 @@ nodectl requires `package.json` includes the key named __name__ and __version__.
 
 `<script>` is omissible if the key named __main__ exists in either `package.json` or `.nodectl.json`.
 
-If the key named __nodectlrc__ exists, you can change rcfile name `.nodectl.json` to other. 
+If the key named __nodectlrc__ exists, you can change rcfile name `.nodectl.json` to other.
 
 ### .nodectl.json
 
