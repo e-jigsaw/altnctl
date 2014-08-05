@@ -1,4 +1,4 @@
-# nodectl
+# altnctl(formally nodectl)
 
 A simple CLI tool for ensuring that a given node.js application runs conveniently and continuously.
 
