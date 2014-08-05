@@ -1,5 +1,5 @@
 {
-  "name": "nodectl",
+  "name": "altnctl",
   "version": "0.3.14",
   "description": "supervisor script for node.js",
   "main": "lib/nodectl.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/e-jigsaw/nodectl"
+    "url": "https://github.com/e-jigsaw/altnctl"
   },
   "keywords": [
     "supervisor",
